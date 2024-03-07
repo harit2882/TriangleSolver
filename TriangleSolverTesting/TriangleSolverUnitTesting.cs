@@ -8,5 +8,6 @@ namespace TriangleSolverTesting
 {
     public class Class1
     {
+
     }
 }
